@@ -19,7 +19,7 @@ import freeKitImage from './The Content Creator Studio Kit.jpg';
 
 // Easter Eggs
 import horizontalImage from './components/R+R Horizontal (Cream).png';
-import plusImage from './components/R+R Plus (Cream).png';
+import productImage from './components/rr-plus-cream.png';
 
 const TALLY_FORM_URL = "https://tally.so/r/J90Nez";
 
